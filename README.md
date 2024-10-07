@@ -83,9 +83,6 @@ I'm a software developer with over 3 years of experience in developing ERP syste
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MohamedAnwarAlhamed/MohamedAnwarAlhamed/output/snake.svg" alt="Snake animation" />
 
 ###
 
